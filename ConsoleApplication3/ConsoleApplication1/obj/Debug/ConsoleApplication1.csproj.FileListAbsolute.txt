@@ -1,0 +1,6 @@
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
